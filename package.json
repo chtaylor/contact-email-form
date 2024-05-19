@@ -2,6 +2,6 @@
   "name": "@chtaylor/contact-email-form",
   "version": "1.0.0",
   "dependencies": {
-    "@cloudflare/pages-plugin-mailchannels": "^0.1.0"
+    "@cloudflare/pages-plugin-mailchannels": "0.1.5"
   }
 }
