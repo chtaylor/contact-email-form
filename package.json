@@ -1,7 +1,11 @@
 {
-  "name": "@chtaylor/contact-email-form",
+  "name": "contact-email-form",
   "version": "1.0.0",
-  "devDependencies": {
-    "@cloudflare/pages-plugin-mailchannels": "0.1.5"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chtaylor/contact-email-form.git"
+  },
+  "dependencies": {
+    "@cloudflare/pages-plugin-mailchannels": "^0.1.5"
   }
 }
